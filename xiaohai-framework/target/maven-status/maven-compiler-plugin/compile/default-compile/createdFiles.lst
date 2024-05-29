@@ -1,0 +1,7 @@
+com\xiaohai\service\TagService.class
+com\xiaohai\domain\entity\Article.class
+com\xiaohai\service\impl\TagServiceImpl.class
+com\xiaohai\service\impl\ArticleServiceImpl.class
+com\xiaohai\domain\entity\Tag.class
+com\xiaohai\service\ArticleService.class
+com\xiaohai\mapper\TagMapper.class
